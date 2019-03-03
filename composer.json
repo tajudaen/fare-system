@@ -1,0 +1,17 @@
+{
+    "name": "tajudeen/fare-system",
+    "description": "A limited version of the New York subway fare system",
+    "type": "library",
+    "authors": [
+        {
+            "name": "tajud99n",
+            "email": "giwa208@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "fare\\": "lib"
+        }
+    },
+    "require": {}
+}
